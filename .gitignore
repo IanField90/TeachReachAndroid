@@ -1,0 +1,49 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+.DS_Store
+
+# OS X Junk
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+.DS_Store
+profile
+.svn
+
+# Android and iOS
+build/
+
+# Java (Android) Related
+project.properties
+bin/
+gen/
+out/
+target/
+.~lock*
+
+# Eclipse
+.classpath
+.project
+
+# Android Studio (SDK)
+local.properties
+/*/local.properties
+/*/out
+/*/*/build
+/*/*/production
+.idea/
+.gradle
+*.iml
+*.iws
+*.ipr
+*.swp
+
+# Android
+*.apk
+*.ap_
+*.dex
+
+# Android Crashlytics
+res/values/com_crashlytics_export_strings.xml
